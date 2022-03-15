@@ -1,0 +1,1 @@
+Goal-setter is a Full stack web application, where users can create their account and Set their Goals.
